@@ -77,7 +77,7 @@ per_page_options:
 search_results_per_page:
   default: 10
 mail_from:
-  default: redmine@example.net
+  default: redmine@svora.me
 bcc_recipients:
   default: 1
 plain_text_mail:
@@ -95,7 +95,7 @@ force_default_language_for_anonymous:
 force_default_language_for_loggedin:
   default: 0
 host_name:
-  default: localhost:3000
+  default: svora.me
 protocol:
   default: http
   security_notifications: 1
@@ -253,7 +253,7 @@ ui_theme:
 emails_footer:
   default: |-
     You have received this notification because you have either subscribed to it, or are involved in it.
-    To change your notification preferences, please click here: http://hostname/my/account
+    To change your notification preferences, please click here: http://svora.me/my/account
 gravatar_enabled:
   default: 0
 openid:
